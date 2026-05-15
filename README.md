@@ -1,2 +1,18 @@
-# Terminal-WordGuess-Game
-A simple python based (terminal) hangman/wordguess game. 50+ words to guess from. A simple fun game
+# Python Hangman Game
+
+A simple terminal-based Hangman game built using Python.
+
+## Features
+- Random word generation
+- 50+ word database
+- Lives-based gameplay
+- Input validation
+- Win/Loss detection
+
+## Technologies Used
+- Python
+
+## How to Run
+
+```bash
+python hangman.py
